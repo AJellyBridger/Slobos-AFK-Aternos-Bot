@@ -8,7 +8,7 @@
   "server": {
     "ip": "5.9.41.143",
     "port": 33403,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "THANKS FOR GIVING EXISTANCE TO ME!",
+        "GUYS CAN I JOIN TOO?",
+        "YOU GUYS ARE ALWAYS PLAYING BY YOURSELF!"
       ]
     },
     "chat-log": true,
